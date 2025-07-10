@@ -5,7 +5,7 @@ This repository contains two beginner-level Python programs that demonstrate cor
 
 ## Tasks Included
 
-### ✅ Task 1: Perform Basic Mathematical Operations
+###  Task 1: Perform Basic Mathematical Operations
 
 **Objective**:  
 Write a Python program that:
@@ -20,7 +20,7 @@ Write a Python program that:
 **File**: `task1_math_operations.py`
 
 
-### ✅ Task 2: Create a Personalized Greeting
+###  Task 2: Create a Personalized Greeting
 
 **Objective**:  
 Write a Python program that:
